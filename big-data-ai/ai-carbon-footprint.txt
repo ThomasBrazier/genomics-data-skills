@@ -1,0 +1,23 @@
+Explosion des outils d'IA. Definir IA et ses fonctions/usages en science. wide range of usages and domains
+Objectif d'augmenter/remplacer l'humain sur certaines taches
+Assistants IA
+Utilisation extremement facile, intuitive, et efficacité impressionnante (quoique subtilement faux souvent)
+
+Usage scientifique dans la recherche -> modeles statistiques, inferences et predictions, resumer la bibliographie
+
+Usage non-scientifique -> ecrire ou illustrer un article (IA generative), taches administratives (mails), correction orthographique
+
+Le cout environnemental de l'entrainement et de l'utilisation des outils d'IA
+Entrainement sur de tres grands ensembles de donnees, necessite de re-entrainer regulierement/en continu
+Requetes (inference) ont un cout en elles-memes
+Requetes internet, alimentent big data, cout caché (tourne sur des gros serveurs de calcul distants)
+
+Solutions ou alternatives
+Limiter les usages/nombre de requêtes -> usage scientifique
+IA frugal
+
+
+
+
+
+"As AI systems proliferate, their greenhouse gas emissions are an increasingly important concern for human societies. In this article, we present a comparative analysis of the carbon emissions associated with AI systems (ChatGPT, BLOOM, DALL-E2, Midjourney) and human individuals performing equivalent writing and illustrating tasks. Our findings reveal that AI systems emit between 130 and 1500 times less CO2e per page of text generated compared to human writers, while AI illustration systems emit between 310 and 2900 times less CO2e per image than their human counterparts. Emissions analyses do not account for social impacts such as professional displacement, legality, and rebound effects. In addition, AI is not a substitute for all human tasks. Nevertheless, at present, the use of AI holds the potential to carry out several major activities at much lower emission levels than can humans."
