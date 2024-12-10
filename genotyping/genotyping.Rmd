@@ -5,3 +5,4 @@
 ## genotype likelihood
 
 https://eriqande.github.io/eca-bioinf-handbook/variant-calling.html
+https://www.nature.com/articles/nrg2986
