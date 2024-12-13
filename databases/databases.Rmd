@@ -2,3 +2,5 @@
 
 
 https://ena-docs.readthedocs.io/en/latest/retrieval/file-download.html
+https://github.com/enasequence/ena-ftp-downloader/
+https://ena-docs.readthedocs.io/en/latest/retrieval/programmatic-access.html
