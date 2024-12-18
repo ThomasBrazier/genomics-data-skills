@@ -1,2 +1,4 @@
 
 https://sahirbhatnagar.com/blog/2020/03/03/creating-a-website-for-your-r-package/
+
+https://rcs.bu.edu/examples/r/tutorials/BuildingPackages/r-project-setup.html
